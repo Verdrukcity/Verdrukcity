@@ -1,7 +1,9 @@
 ### Hola! 👋
 ### ¿Quíen soy?
-Soy Francisco Bolaños, un apasionado programador que genera soluciones a través de codigo.
+Soy Francisco Bolaños, despues de un cambio en mi vida reencontre mi pasion; Generar soluciones a través de codigo.
 Recientemente en enero de 2023 me gradue como programador full stack.
+Actualmente me encuentro disponible para contribuir en proyectos y estoy ansioso de compartir mi codigo con el mundo.
+
 ### Mis conocimientos 🤓
  Javascript | React.js | Node.js | SQL | CSS | HTML | Redux | Redux-toolkit | Git | Github | MongoDB |
  -----------------------------------------------------------------------------------------------------------------------
