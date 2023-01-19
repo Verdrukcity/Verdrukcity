@@ -13,3 +13,7 @@ A demás de mis Tec skills cuento con una lic. en Ciencias de la comunicación, 
    Como full stack me desarrolle en la resolución de problemas, alcanzar objetivos, el trabajo en equipo y la organización para sacar un equipo adelante, apoyando las áreas con mayor complejidad. Sobrellevando los retos del día a día y me desarrollo continuamente en la mejora y la excelencia.
 
 Me especializo en la resolución de problemas con un enfoque dirigido a los usuarios, manteniendo un diseño sencillo, seguro y fácil de utilizar.
+
+### Nivel de ingles C1 (avanzado)
+https://www.efset.org/cert/yzoym8
+
